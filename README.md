@@ -1,6 +1,6 @@
 # flutterchat
 
-A new Flutter application.
+This is a chat application which allows user to register/log in and then chat with the other registered members.The authetication and storing messages are done using the firebase.
 
 ## Getting Started
 
